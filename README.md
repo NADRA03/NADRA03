@@ -1,23 +1,24 @@
 # Hi, I'm Malak!
 
-![Go](https://img.shields.io/badge/Go-blue?logo=go)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
-![Java](https://img.shields.io/badge/Java-007396?logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![React](https://img.shields.io/badge/React-20232A?logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
-![Metasploit](https://img.shields.io/badge/Metasploit-5082A4?logo=metasploit)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+</p>
 
 ![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NADRA03&layout=compact&theme=github_dark)
