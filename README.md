@@ -1,5 +1,9 @@
 # Hi, I'm Malak!
 
+---
+
+A full-stack developer and a fresh Cybersecurity graduate from UOB.
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -17,8 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
   <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="Laravel" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" alt="Rust Logo" width="50" height="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Metasploit_logo_and_wordmark.svg/799px-Metasploit_logo_and_wordmark.svg.png" alt="Metasploit Logo" width="100" height="50" />
 </p>
 
 ![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
