@@ -1,8 +1,5 @@
 # Hi, I'm Malak!
 
-## About Me
-A Full stack developer and a cybersecurity fresh graduate from UOB.
-
 ![Go](https://img.shields.io/badge/Go-blue?logo=go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
