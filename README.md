@@ -1,5 +1,4 @@
 # Hi, I'm Malak!
-
 ---
 
 A full-stack developer and a fresh Cybersecurity graduate from UOB.
