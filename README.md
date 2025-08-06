@@ -23,6 +23,7 @@ A full-stack developer and a fresh Cybersecurity graduate from UOB.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
   <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="Laravel" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="50" height="50"/>
 </p>
 
 
