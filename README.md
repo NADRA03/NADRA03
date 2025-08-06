@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Malak!
 
-<!--
-**NADRA03/NADRA03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- A Full stack developer and a cybersecurity fresh graduate from UOB.
 
-Here are some ideas to get you started:
+![Go](https://img.shields.io/badge/Go-blue?logo=go)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+![Java](https://img.shields.io/badge/Java-007396?logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python)
+![Rust](https://img.shields.io/badge/Rust-000000?logo=rust)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel)
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular)
+![Metasploit](https://img.shields.io/badge/Metasploit-5082A4?logo=metasploit)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NADRA03&layout=compact&theme=github_dark)
