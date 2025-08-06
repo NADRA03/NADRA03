@@ -16,16 +16,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-
-  
-  <!-- Rust alternative -->
-  <img src="https://raw.githubusercontent.com/rust-lang/art/master/icons/rust-logo-blk.svg" width="50" height="50" alt="Rust" />
-
-  <!-- Laravel alternative -->
   <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="Laravel" />
-
-  <!-- Metasploit alternative -->
-  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/logo.png" width="50" height="50" alt="Metasploit" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Rust_programming_language_black_logo.svg/106px-Rust_programming_language_black_logo.svg.png" alt="Rust Logo" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Metasploit_logo_and_wordmark.svg/799px-Metasploit_logo_and_wordmark.svg.png" alt="Metasploit Logo" width="100" height="50" />
 </p>
 
 ![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
