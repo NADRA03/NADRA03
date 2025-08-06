@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Malak!
+# Hi, I'm Malak!
 
 ## About Me
-- A Full stack developer and a cybersecurity fresh graduate from UOB.
+A Full stack developer and a cybersecurity fresh graduate from UOB.
 
 ![Go](https://img.shields.io/badge/Go-blue?logo=go)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
