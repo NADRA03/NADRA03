@@ -1,7 +1,8 @@
 # Hi, I'm Malak!
----
 
 A full-stack developer and a fresh Cybersecurity graduate from UOB.
+
+---
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
