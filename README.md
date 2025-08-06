@@ -37,9 +37,6 @@ A full-stack developer and a fresh Cybersecurity graduate from UOB.
 
 
 <p align="left">
-  <a href="mailto:malakhabeeb2003@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail Icon" />
-  </a>
   <a href="https://www.linkedin.com/in/malak-ahmed-21b510320" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Icon" />
   </a>
