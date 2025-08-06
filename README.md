@@ -16,6 +16,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
+
+  
+  <!-- Rust alternative -->
+  <img src="https://raw.githubusercontent.com/rust-lang/art/master/icons/rust-logo-blk.svg" width="50" height="50" alt="Rust" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="Vue.js"/>
+
+  <!-- Laravel alternative -->
+  <img src="https://laravel.com/img/logomark.min.svg" width="50" height="50" alt="Laravel" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" alt="AngularJS"/>
+
+  <!-- Metasploit alternative -->
+  <img src="https://raw.githubusercontent.com/rapid7/metasploit-framework/master/logo.png" width="50" height="50" alt="Metasploit" />
 </p>
 
 ![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
