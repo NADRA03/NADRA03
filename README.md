@@ -4,6 +4,8 @@
 A full-stack developer and a fresh Cybersecurity graduate from UOB.
 
 
+
+
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
@@ -24,15 +26,21 @@ A full-stack developer and a fresh Cybersecurity graduate from UOB.
 </p>
 
 
+
+
+
 ![NADRA03's GitHub stats](https://github-readme-stats.vercel.app/api?username=NADRA03&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NADRA03&layout=compact&theme=github_dark)
 
 
-<p>
+
+
+
+<p align="left">
   <a href="mailto:malakhabeeb2003@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Gmail Icon" />
   </a>
   <a href="https://www.linkedin.com/in/malak-ahmed-21b510320" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn Icon" />
   </a>
 </p>
