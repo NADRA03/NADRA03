@@ -29,10 +29,10 @@ A full-stack developer and a fresh Cybersecurity graduate from UOB.
 
 
 <p>
-  <a href="mailto:malakhabeeb2003@gmai.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <a href="mailto:malakhabeeb2003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-me-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="www.linkedin.com/in/malak-ahmed-21b510320">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/malak-ahmed-21b510320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
