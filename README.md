@@ -38,6 +38,10 @@ I'm a **Full-Stack Developer** and a fresh **Cybersecurity Graduate** from the U
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADRA03&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=NADRA03&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
 ---
 
 ### Currently Working On
